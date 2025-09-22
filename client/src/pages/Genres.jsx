@@ -1,6 +1,6 @@
 import Header from "../components/Header.jsx"
 
-export default function Authors() {
+export default function Genres() {
     return (
         <>
             <Header/>
